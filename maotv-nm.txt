@@ -20,26 +20,6 @@
             ]
         },
         {
-            "key": "芒果（限成年人）",
-            "name": "芒果（限成年人）",
-            "type": 0,
-            "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": [
-                
-            ]
-        },
-        {
-           "key": "BT天堂（限成年人）",
-            "name": "BT天堂（限成年人）",
-            "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
-            "playUrl": "",
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "605资源",
             "name": "605资源",
             "type": 0,
