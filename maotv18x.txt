@@ -1080,9 +1080,6 @@
 		"playUrl": "",
 		"categories": []
 	},
-
-
-
 	{
 		"key": "天龙影院",
 		"name": "天龙影院",
@@ -1147,7 +1144,6 @@
 		"playUrl": "",
 		"categories": []
 	},
-
 	{
 		"key": "清莲影院",
 		"name": "清莲影院",
@@ -1236,7 +1232,6 @@
 		"playUrl": "",
 		"categories": []
 	},
-
 	{
 		"key": "快活资源",
 		"name": "快活资源",
@@ -1291,9 +1286,7 @@
 		"type": 0,
 		"api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
 		"playUrl": "",
-		"categories": [
-		
-		]
+		"categories": []
 	},
 	{
 		"key": "丝袜资源",
