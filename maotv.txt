@@ -2643,8 +2643,7 @@
                     "urls": [
                         "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
                     ]
-            ]
-        }
+                 }
     ],
     "parses": [
         {
