@@ -102,7 +102,7 @@ SB资源,http://www.shabizy.com:777/inc/sea,解析
 色狗资源,https://segouzy1.com/inc/api.php,解析
 趣播资源,https://www.qbzyz.com/api.php/provide/vod/at/xml,解析
 结束
-解析：
+
 解析：
 2Ajx,https://www.2ajx.com/vip.php?url=
 4kdv,https://jx.4kdv.com/?url=
