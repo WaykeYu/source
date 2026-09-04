@@ -1,5 +1,5 @@
 {
-  "spider": "http://www.fantaiying.com/jar/spider.jar",
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
   "wallpaper": "https://picsum.photos/1920/1080",
   "sites": [
     {
