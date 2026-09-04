@@ -1,0 +1,586 @@
+{
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+  "wallpaper": "https://bing.biturl.top/?resolution=1920&format=json&index=0&mkt=zh-CN",
+  "sites": [
+    {
+      "key": "py_247影视",
+      "name": "247影视 (Py)",
+      "type": 3,
+      "api": "py_247影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/247%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_py_hitv",
+      "name": "HiTV (Py)",
+      "type": 3,
+      "api": "py_py_hitv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/py_hitv.py"
+    },
+    {
+      "key": "py_七猫影视",
+      "name": "七猫影视 (Py)",
+      "type": 3,
+      "api": "py_七猫影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%B8%83%E7%8C%AB%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_九龙趣看",
+      "name": "九龙趣看 (Py)",
+      "type": 3,
+      "api": "py_九龙趣看",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%B9%9D%E9%BE%99%E8%B6%A3%E7%9C%8B.py"
+    },
+    {
+      "key": "py_五五短剧",
+      "name": "五五短剧 (Py)",
+      "type": 3,
+      "api": "py_五五短剧",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BA%94%E4%BA%94%E7%9F%AD%E5%8A%A3.py"
+    },
+    {
+      "key": "py_优视频",
+      "name": "优视频 (Py)",
+      "type": 3,
+      "api": "py_优视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BC%98%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_优酷视频",
+      "name": "优酷视频 (Py)",
+      "type": 3,
+      "api": "py_优酷视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_低端影视",
+      "name": "低端影视 (Py)",
+      "type": 3,
+      "api": "py_低端影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_光速",
+      "name": "光速 (Py)",
+      "type": 3,
+      "api": "py_光速",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%B9%89%E9%80%9F.py"
+    },
+    {
+      "key": "py_共青春影院",
+      "name": "共青春影院 (Py)",
+      "type": 3,
+      "api": "py_共青春影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%85%B1%E9%9D%92%E6%98%A5%E5%BD%B1%E9%99%A2.py"
+    },
+    {
+      "key": "py_农民影视",
+      "name": "农民影视 (Py)",
+      "type": 3,
+      "api": "py_农民影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_努努影院",
+      "name": "努努影院 (Py)",
+      "type": 3,
+      "api": "py_努努影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%8A%AA%E5%8A%AA%E5%BD%B1%E9%99%A2.py"
+    },
+    {
+      "key": "py_可可影视",
+      "name": "可可影视 (Py)",
+      "type": 3,
+      "api": "py_可可影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_哇哇APP",
+      "name": "哇哇APP (Py)",
+      "type": 3,
+      "api": "py_哇哇APP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%93%87%E5%93%87APP.py"
+    },
+    {
+      "key": "py_嘀嗒影视",
+      "name": "嘀嗒影视 (Py)",
+      "type": 3,
+      "api": "py_嘀嗒影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%90%B0%E5%90%AD%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_奇优影院",
+      "name": "奇优影院 (Py)",
+      "type": 3,
+      "api": "py_奇优影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.py"
+    },
+    {
+      "key": "py_小鸭子看看",
+      "name": "小鸭子看看 (Py)",
+      "type": 3,
+      "api": "py_小鸭子看看",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%B0%8F%E9%B8%AD%E5%AD%90%E7%9C%8B%E7%9C%8B.py"
+    },
+    {
+      "key": "py_新视觉",
+      "name": "新视觉 (Py)",
+      "type": 3,
+      "api": "py_新视觉",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%96%B0%E8%A7%86%E8%A7%86.py"
+    },
+    {
+      "key": "py_星河影视",
+      "name": "星河影视 (Py)",
+      "type": 3,
+      "api": "py_星河影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%98%9F%E6%B2%B3%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_歪比巴卜",
+      "name": "歪比巴卜 (Py)",
+      "type": 3,
+      "api": "py_歪比巴卜",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%AD%AA%E6%AF%94%E5%B7%B4%E5%8D%9C.py"
+    },
+    {
+      "key": "py_毒舌影视",
+      "name": "毒舌影视 (Py)",
+      "type": 3,
+      "api": "py_毒舌影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%AF%92%E8%8A%A1%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_永乐视频",
+      "name": "永乐视频 (Py)",
+      "type": 3,
+      "api": "py_永乐视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%B0%B8%E4%B9%90%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_河马剧场",
+      "name": "河马剧场 (Py)",
+      "type": 3,
+      "api": "py_河马剧场",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%B2%B3%E9%A9%AC%E5%89%A7%E5%9C%BA.py"
+    },
+    {
+      "key": "py_泥视频",
+      "name": "泥视频 (Py)",
+      "type": 3,
+      "api": "py_泥视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%B3%A5%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_游子视频",
+      "name": "游子视频 (Py)",
+      "type": 3,
+      "api": "py_游子视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%B8%B8%E5%AD%90%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_热播APP",
+      "name": "热播APP (Py)",
+      "type": 3,
+      "api": "py_热播APP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%83%AD%E6%92%ADAPP.py"
+    },
+    {
+      "key": "py_熊猫视频",
+      "name": "熊猫视频 (Py)",
+      "type": 3,
+      "api": "py_熊猫视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%86%8A%E7%8C%AB%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_爱壹帆影视",
+      "name": "爱壹帆影视 (Py)",
+      "type": 3,
+      "api": "py_爱壹帆影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%88%B1%E5%A3%B9%E5%B8%86%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_瓜子影视",
+      "name": "瓜子影视 (Py)",
+      "type": 3,
+      "api": "py_瓜子影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_皮皮虾",
+      "name": "皮皮虾 (Py)",
+      "type": 3,
+      "api": "py_皮皮虾",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%9A%AE%E7%9A%AE%E8%99%BE.py"
+    },
+    {
+      "key": "py_短剧聚合",
+      "name": "短剧聚合 (Py)",
+      "type": 3,
+      "api": "py_短剧聚合",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%9F%AD%E5%89%A7%E8%81%9A%E5%90%88.py"
+    },
+    {
+      "key": "py_腾讯视频",
+      "name": "腾讯视频 (Py)",
+      "type": 3,
+      "api": "py_腾讯视频",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_芒果TV",
+      "name": "芒果TV (Py)",
+      "type": 3,
+      "api": "py_芒果TV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E8%8A%92%E6%9E%9CTV%20%281%29.py"
+    },
+    {
+      "key": "py_视觉",
+      "name": "视觉 (Py)",
+      "type": 3,
+      "api": "py_视觉",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E8%A7%86%E8%A7%86.py"
+    },
+    {
+      "key": "py_采集聚合",
+      "name": "采集聚合 (Py)",
+      "type": 3,
+      "api": "py_采集聚合",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%87%87%E9%9B%86%E8%81%9A%E5%90%88.py"
+    },
+    {
+      "key": "py_金牌",
+      "name": "金牌 (Py)",
+      "type": 3,
+      "api": "py_金牌",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%87%91%E7%89%8C.py"
+    },
+    {
+      "key": "py_青桔短剧",
+      "name": "青桔短剧 (Py)",
+      "type": 3,
+      "api": "py_青桔短剧",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%9D%92%E6%A1%92%E7%9F%AD%E5%8A%A3.py"
+    },
+    {
+      "key": "py_香肠派对",
+      "name": "香肠派对 (Py)",
+      "type": 3,
+      "api": "py_香肠派对",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9.py"
+    },
+    {
+      "key": "py_骚火影视",
+      "name": "骚火影视 (Py)",
+      "type": 3,
+      "api": "py_骚火影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%AA%92%E7%81%AB%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_麒麟影视",
+      "name": "麒麟影视 (Py)",
+      "type": 3,
+      "api": "py_麒麟影视",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%BA%92%E9%BA%9F%E5%BD%B1%E8%A7%86.py"
+    },
+    {
+      "key": "py_麦田影院",
+      "name": "麦田影院 (Py)",
+      "type": 3,
+      "api": "py_麦田影院",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%BA%A6%E7%94%B0%E5%BD%B1%E9%99%A2.py"
+    },
+    {
+      "key": "py_黄豆短剧",
+      "name": "黄豆短剧 (Py)",
+      "type": 3,
+      "api": "py_黄豆短剧",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%8A%A3.py"
+    },
+    {
+      "key": "py_Pandalive直播",
+      "name": "Pandalive直播 (Py)",
+      "type": 3,
+      "api": "py_Pandalive直播",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/Pandalive%E7%9B%B4%E6%92%AD.py"
+    },
+    {
+      "key": "py_咖啡直播",
+      "name": "咖啡直播 (Py)",
+      "type": 3,
+      "api": "py_咖啡直播",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E5%92%96%E5%95%A1%E7%9B%B4%E6%92%AD.py"
+    },
+    {
+      "key": "py_每日大乱斗",
+      "name": "每日大乱斗 (Py)",
+      "type": 3,
+      "api": "py_每日大乱斗",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%AF%8F%E6%97%A5%E5%A4%A7%E4%B9%B1%E6%96%97.py"
+    },
+    {
+      "key": "py_每日大赛",
+      "name": "每日大赛 (Py)",
+      "type": 3,
+      "api": "py_每日大赛",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%AF%8F%E6%97%A5%E5%A4%A7%E8%B5%9B.py"
+    },
+    {
+      "key": "py_聚合直播",
+      "name": "聚合直播 (Py)",
+      "type": 3,
+      "api": "py_聚合直播",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E8%81%9A%E5%90%88%E7%9B%B4%E6%92%AD.py"
+    },
+    {
+      "key": "py_VHUB",
+      "name": "VHUB[成人] (Py)",
+      "type": 3,
+      "api": "py_VHUB",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/VHUB%5B%E6%88%90%E4%BA%BA%5D.py"
+    },
+    {
+      "key": "py_Xvideos",
+      "name": "Xvideos (Py)",
+      "type": 3,
+      "api": "py_Xvideos",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/Xvideos.py"
+    },
+    {
+      "key": "py_stripchat",
+      "name": "stripchat (Py)",
+      "type": 3,
+      "api": "py_stripchat",
+      "style": { "type": "rect", "ratio": 1.78 },
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/stripchat.py"
+    },
+    {
+      "key": "py_久久視頻",
+      "name": "久久視頻 (Py)",
+      "type": 3,
+      "api": "py_久久視頻",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%B9%9D%E4%B9%9D%E8%A6%96%E9%A8%BB%20%281%29.py"
+    },
+    {
+      "key": "py_亚色影库",
+      "name": "亚色影库 (Py)",
+      "type": 3,
+      "api": "py_亚色影库",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BA%9A%E8%89%B2%E5%BD%B1%E5%BA%93.py"
+    },
+    {
+      "key": "py_今日看料",
+      "name": "今日看料 (Py)",
+      "type": 3,
+      "api": "py_今日看料",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E4%BB%8A%E6%97%A5%E7%9C%8B%E6%96%99.py"
+    },
+    {
+      "key": "py_怦然心动",
+      "name": "怦然心动 (Py)",
+      "type": 3,
+      "api": "py_怦然心动",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8.py"
+    },
+    {
+      "key": "py_撸一天",
+      "name": "撸一天 (Py)",
+      "type": 3,
+      "api": "py_撸一天",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%92%B8%E4%B8%80%E5%A4%A9.py"
+    },
+    {
+      "key": "py_樱花传媒",
+      "name": "樱花传媒 (Py)",
+      "type": 3,
+      "api": "py_樱花传媒",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E6%A8%B1%E8%8A%B1%E4%BC%A0%E5%AA%92.py"
+    },
+    {
+      "key": "py_猫咪TV",
+      "name": "猫咪TV (Py)",
+      "type": 3,
+      "api": "py_猫咪TV",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%8C%AB%E5%92%A3TV.py"
+    },
+    {
+      "key": "py_神秘电影",
+      "name": "神秘电影 (Py)",
+      "type": 3,
+      "api": "py_神秘电影",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%A5%9E%E7%A7%98%E7%94%B5%E5%BD%B1.py"
+    },
+    {
+      "key": "py_禁片天堂",
+      "name": "禁片天堂 (Py)",
+      "type": 3,
+      "api": "py_禁片天堂",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E7%A6%81%E7%89%87%E5%A4%A9%E5%A0%82.py"
+    },
+    {
+      "key": "py_韩国色情电影",
+      "name": "韩国色情电影 (Py)",
+      "type": 3,
+      "api": "py_韩国色情电影",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%9F%90%E5%9B%BD%E8%89%B2%E6%83%85%E7%94%B5%E5%BD%B1.py"
+    },
+    {
+      "key": "py_香蕉视频",
+      "name": "香蕉视频 (Py)",
+      "type": 3,
+      "api": "py_香蕉视频",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%A6%99%E8%95%8D%E8%A7%86%E9%A2%91.py"
+    },
+    {
+      "key": "py_麻豆社",
+      "name": "麻豆社 (Py)",
+      "type": 3,
+      "api": "py_麻豆社",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%BA%BB%E8%B1%86%E7%A4%BE.py"
+    },
+    {
+      "key": "py_黑料不打烊",
+      "name": "黑料不打烊 (Py)",
+      "type": 3,
+      "api": "py_黑料不打烊",
+      "ext": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/py/%E9%BB%91%E6%96%99%E4%B8%8D%E6%89%93%E7%85%8C.py"
+    }
+  ],
+  "lives": [
+    {
+      "name": "黄蚂蚁推流",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/WaykeYu/source/refs/heads/main/txt/%E9%BB%84%E8%9A%82%E8%9A%81%E5%85%88%E9%94%8B%E6%8E%A8%E6%B5%81%E6%BA%90.txt"
+    }
+  ]
+}
