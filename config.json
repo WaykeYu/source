@@ -3,6 +3,16 @@
   "wallpaper": "https://bing.biturl.top/?resolution=1920&format=json&index=0&mkt=zh-CN",
   "sites": [
     {
+      "key": "🔞丝袜资源",
+      "name": "🔞丝袜资源",
+      "type": 3,
+      "api": "🔞丝袜资源",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://siwazyw.tv/api.php/provide/vod/at/json"
+    },
+        {
       "key": "py_247影视",
       "name": "247影视 (Py)",
       "type": 3,
